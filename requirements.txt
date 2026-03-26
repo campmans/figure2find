@@ -1,0 +1,7 @@
+segmentation-models-pytorch
+transformers
+requests
+matplotlib
+torch
+torchvision
+ultralytics
