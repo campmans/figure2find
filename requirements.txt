@@ -5,3 +5,4 @@ matplotlib
 torch
 torchvision
 ultralytics
+scikit-learn
