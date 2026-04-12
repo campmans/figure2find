@@ -206,4 +206,6 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
-image_variations/
+images_variations/
+images_heatmap/
+images_result_combined/
