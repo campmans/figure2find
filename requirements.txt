@@ -6,3 +6,7 @@ torch
 torchvision
 ultralytics
 scikit-learn
+ipywidgets
+ipympl
+ipykernel
+voila
