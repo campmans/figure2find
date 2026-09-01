@@ -13,3 +13,7 @@ conda install pip
 # Install the requirements
 
 pip install -r requirements.txt
+
+# Setup the test website
+
+voila
