@@ -1,9 +1,9 @@
-# figure2find
+# figure2find - Figure to Find
 
-This project contains experiments for detecting and segmenting faces and vases
-in ambiguous images. The interactive experiment in `experiment.ipynb` displays
-`faces_vase_color.jpg` and adds more salt-and-pepper noise each time the image
-is clicked.
+This project consist of three parts. The first part (setup_prepare_variations.ipynb) sets up all the altered images in order to do the VisionTransformer experiments with it. The second part (segmentation.ipynb) does the actual VisionTransformer segmentation loop with the alternated images. These two first parts contain the technical research that concerns the VisionTransformer. In the end, we have a third part (experiment.ipynb) which contains experiments for detecting and segmenting faces and vases by humans in ambiguous images. The interactive experiment in `experiment.ipynb` displays
+`faces_vase_color.jpg` under a lot of salt and pepper noise, and by clicking somewhere on the image, the salt and pepper noise (in that area) is being removed for you.
+
+The goal of the game is to see the faces or the vase in as few as clicks as possible.
 
 ## Requirements
 
