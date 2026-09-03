@@ -1,0 +1,8 @@
+{
+    "python.defaultInterpreterPath": "/home/tony/miniconda3/envs/f2f/bin/python",
+    "jupyter.kernels.excludePythonEnvironments": [
+        "/home/tony/miniconda3/envs/f2f/bin/python"
+    ],
+    "python-envs.defaultEnvManager": "ms-python.python:conda",
+    "python-envs.defaultPackageManager": "ms-python.python:conda"
+}
